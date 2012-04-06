@@ -1,1 +1,4 @@
 Sample GLProgram using GL3.3 Shaders, Buffers etc..
+Dependencies
+   1. GLEW
+   2. QT 4.7 and above
